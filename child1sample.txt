@@ -1,3 +1,5 @@
 sample text in child 1 notepad
 
 in MASTER I am adding line
+
+adding line in master repository
