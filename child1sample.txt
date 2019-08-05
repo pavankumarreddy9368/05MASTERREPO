@@ -1,4 +1,10 @@
 sample text in child 1 notepad
 
+
 merge is done and now i am adding one more line
 to test
+
+in MASTER I am adding line
+
+adding line in master repository
+
